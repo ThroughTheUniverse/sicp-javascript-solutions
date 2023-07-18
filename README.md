@@ -15,6 +15,7 @@ The JavaScript edition adapts the original book to use JavaScript instead of Lis
 * Higher-order functions
 * Programming language semantics
 * Interpreters
+  
 While the book uses JavaScript, the core ideas are language agnostic and provide a great foundation for any programmer.
 
 ## About the Solutions
