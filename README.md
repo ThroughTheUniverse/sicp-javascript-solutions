@@ -1,6 +1,6 @@
 # sicp-javascript-solutions
 
-This is a solution manual for the book "[Structure and Interpretation of Computer Programs JavaScript Edition](https://a.co/d/h52Kagz)" by Harold Abelson and Gerald Jay Sussman.
+This is a solution manual for the book "[Structure and Interpretation of Computer Programs JavaScript Edition](https://a.co/d/h52Kagz)" by Martin Henz (Adapter), Tobias Wrigstad (Adapter), Harold Abelson (Author), Gerald Jay Sussman (Author), Julie Sussman (Contributor).
 
 ## Contents
 This repo contains my solutions to the exercises in each chapter of the book. The solutions are organized by chapter.
