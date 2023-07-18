@@ -6,7 +6,7 @@ This is a solution manual for the book "[Structure and Interpretation of Compute
 This repo contains my solutions to the exercises in each chapter of the book. The solutions are organized by chapter.
 
 ## About the Book
-"Structure and Interpretation of Computer Programs" is a classic computer science textbook that teaches fundamental principles of programming and computer science through a dialect of Lisp.
+"[Structure and Interpretation of Computer Programs](https://a.co/d/8xeldK8)" is a classic computer science textbook that teaches fundamental principles of programming and computer science through a dialect of Lisp.
 
 The JavaScript edition adapts the original book to use JavaScript instead of Lisp. It covers concepts like:
 
